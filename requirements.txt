@@ -1,0 +1,15 @@
+python -m venv .venv
+# En Windows: .venv\Scripts\activate
+# En Linux/Mac: source .venv/bin/activate
+
+pandas
+numpy
+scikit-learn
+matplotlib
+
+torch           # para transformers; si da problemas, fijaremos versión
+transformers
+datasets
+
+pyyaml
+python-dotenv

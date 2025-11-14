@@ -1,0 +1,42 @@
+
+---
+
+## 9️⃣ Esqueleto Quarto para la memoria: `docs_memoria/index.qmd`
+
+```markdown
+---
+title: "TFG – Detección de pacientes con ELREXFIO en HCE y prototipo de chatbot oncológico"
+author: "Ainhoa Pérez González"
+format:
+  html:
+    toc: true
+  pdf:
+    toc: true
+    number-sections: true
+fontsize: 11pt
+---
+
+# Introducción
+
+*(Contexto clínico, ELREXFIO, HCE, motivación del TFG...)*
+
+# Objetivos
+
+- Objetivo general:
+- Objetivos específicos:
+
+# Material y métodos
+
+## Datos
+
+## Preprocesamiento
+
+## Métodos de detección (regex, SLM, transformers)
+
+# Resultados
+
+# Discusión
+
+# Conclusiones
+
+# Bibliografía
